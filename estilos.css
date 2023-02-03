@@ -11,3 +11,13 @@ body{
     font-size: 1rem;
     color: deeppink;
 }
+.panel div{
+    width: 300px;
+    height: 200px;
+    background-color: thistle;
+    margin: 5px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
